@@ -1,5 +1,7 @@
 # ghost-signal
 
+[![tests](https://github.com/searchsteward/ghost-signal/actions/workflows/tests.yml/badge.svg)](https://github.com/searchsteward/ghost-signal/actions/workflows/tests.yml) [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 The production ghost-job signal from the SearchSteward pipeline — the module
 that decides which tier badge (`clean` / `some_flags` / `likely_ghost` /
 `unknown`) a listing gets inside the app.
